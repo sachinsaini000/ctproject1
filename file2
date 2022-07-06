@@ -2,3 +2,9 @@
 
 def hello():
 	print("Hi from Hello")
+
+def hi():
+	print("hi from hi")
+
+hello()
+hi()
