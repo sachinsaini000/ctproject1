@@ -12,3 +12,6 @@ hi()
 class Student:
 	def __init(self, name):
 		self.name = name
+
+st1 = Student("Yogesh")
+print(type(st1)
