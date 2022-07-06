@@ -8,3 +8,7 @@ def hi():
 
 hello()
 hi()
+
+class Student:
+	def __init(self, name):
+		self.name = name
